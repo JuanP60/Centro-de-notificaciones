@@ -25,13 +25,3 @@ yarn-error.log*
 
 # vercel
 .vercel
-
-# archivos de claude / skills (no forman parte de la app)
-.claude/
-.agents/
-skills-lock.json
-CLAUDE.md
-
-# referencia visual e imágenes de verificación, no necesarias para correr la app
-referencia_visual.jpg
-screenshot*.png
